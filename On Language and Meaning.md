@@ -29,11 +29,5 @@ All meaning comes with language and signs! There are no facts, only interpretati
 
 Paradoxes are problems of the language, not reality. Language is not blind. The last thing is clarity. This world is just language and logic. Minds are private, not their expressions to the world. People project their meaning into texts.
 
-## My Philosophy on Logic and Competition
-Bachelors are unmarried.
-Macro is a thinking style.
-Nothing is original except the whole!
-Is reasoning necessary if there is only a single being?
-Is logic the same in all simulations?
-The idea is to out-philosophize others.
+
 
