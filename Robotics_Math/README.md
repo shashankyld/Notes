@@ -1,8 +1,8 @@
 ## Lectures on Lie Algebra and SO3 Groups
-1. FROM IIT MADRAS - PHYSICS
+FROM IIT MADRAS - PHYSICS
 ```
 # You can find Axis Angle Formula for 3D rotations proved through lie algebra so3 of SO3 group
-https://youtu.be/wIn_dlmD8sk?feature=shared
+1. https://youtu.be/wIn_dlmD8sk?feature=shared
 ```
 2.
 ```
