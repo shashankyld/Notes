@@ -59,3 +59,5 @@ Take a longer term view - 2 years of rapid learning - can improve chances of pro
 Work on Embodied AI, Google is the best company in the world. 
 I think I can bring the SLAM way of doing things. I want to find opportunities in India, I love India more.
 Combining SLAM/Probablistic Robotics Thooery with Learning and Background knowledge of large llms, vlms.
+Its the ability to work on robotics and AI in India that matters the most. I had to come to Germany to study SLAM theory and Robotics. To do the same kind of work in India and at a company like Google is a game changer. 
+Googliness. 
