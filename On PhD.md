@@ -52,3 +52,8 @@ This, in turn, will result in more intelligent, adaptive, and user-friendly robo
 The motivation behind this research is deeply rooted in the researcher's passion for exploring the world through images and 3D imaging, and the desire to integrate language models as a fundamental component of world modeling in the field of robotics.
 
 Im no sure if at the PreDoc role Ill work on problems that scale to a billion people. But, I think atleast the team there have a thought process that values problems and research areas that scale. I believe robotics is a big deal! 
+Chance to work with people of complimentary skills - NLP, Economics, Social Sciences,... 
+Focus on learning, dont need to know everything already - but needs a mind of research.
+Publsihing 3 papers meant nothing - learning to do the research the right way. Deafult mode is to look at the latest paper and try to improve it!
+Take a longer term view - 2 years of rapid learning - can improve chances of producing better results in PhD later - satisfaction
+Work on Embodied AI
