@@ -57,3 +57,4 @@ Focus on learning, dont need to know everything already - but needs a mind of re
 Publsihing 3 papers meant nothing - learning to do the research the right way. Deafult mode is to look at the latest paper and try to improve it!
 Take a longer term view - 2 years of rapid learning - can improve chances of producing better results in PhD later - satisfaction
 Work on Embodied AI, Google is the best company in the world. 
+I think I can bring the SLAM way of doing things. I want to find opportunities in India, I love India more.
