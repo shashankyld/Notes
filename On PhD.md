@@ -72,8 +72,7 @@ The question is not if research or not - but to learn to do it the right way. No
 Before doing a PhD, I would like the learn the way of doing research the right way - that has social impact, research impact and the product impact! Google Research is a really good place to do that. 
 Factor Graphs being useful for percetion and control! cool. Nikhil introduced the Bin Picking Problem/ K-server problem.
 Multi-Object Tracking is surprising interesting. What are some cool ways to do that? Ability to interact with people from Algorithms will turnout amazing to broaden my thinking before joining a PhD.
-Is SLAM dead? What about RL. End to End control for Robotics. What should i do my PhD in? 
-
+Is SLAM dead? What about RL. End to End control for Robotics. What should i do my PhD in? One thing is certain - deep learning methods are promising. this job for 2 years can give me much better idea and clarity on what i should do next.
 
 
 Computer Science Courses:
