@@ -4,7 +4,7 @@
 Docker:
 
 ```bash
-docker image ls #Lists available images
+docker image ls #Lists available images 
 ```
 
 ```bash
