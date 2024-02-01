@@ -13,8 +13,7 @@ FROM IIT MADRAS - PHYSICS
 
 # Lie Groups and Lie Algebra for Robotics
 From Institut de Robòtica i Informàtica Industrial, CSIC-UPC
-'''
+```
 1. https://www.youtube.com/watch?v=csolG83gCV8
-'''
-
+```
 
