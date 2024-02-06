@@ -16,3 +16,8 @@ From Institut de Robòtica i Informàtica Industrial, CSIC-UPC
 1. https://www.youtube.com/watch?v=csolG83gCV8
 
 
+# More on Lie Algebra
+1. https://ethaneade.org/lie.pdf
+2. https://daniel.lawrence.lu/blog/y2021m09d08/
+3. https://arxiv.org/pdf/1812.01537.pdf
+4. https://www.zora.uzh.ch/id/eprint/175991/1/IROS18_Zhang.pdf
