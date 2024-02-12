@@ -24,3 +24,4 @@ From Institut de Robòtica i Informàtica Industrial, CSIC-UPC
 
 # On Optimization
 1. https://www.youtube.com/watch?v=2ToL9zUR8ZI - Lavenberg-Marquardt Algorithm (Newton-Raphson + GD)
+Things to look after: Rosenbrock's function - benchmark for optimization problems: f = (a-x)^2 + b(y-x^)^2
