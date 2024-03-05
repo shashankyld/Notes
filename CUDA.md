@@ -40,3 +40,11 @@ sudo rm -rf /usr/local/cuda
 # Reboot System
 sudo reboot
 ```
+
+## Installing
+1. Install Driver first and then choose relevant CUDA Toolkit. Installing driver can be directly done using Software & Updates
+```
+# Choose relevant driver, e.g.
+sudo apt install nvidia-driver-470
+```
+
