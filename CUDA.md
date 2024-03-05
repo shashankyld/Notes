@@ -22,3 +22,21 @@ sudo apt autoremove
 # Reboot System
 sudo reboot
 ```
+
+2. Remove CUDA Toolkit
+```
+# To uninstall the CUDA Toolkit packages
+sudo apt-get remove --autoremove cuda
+```
+```
+# To remove any residual files and directories
+sudo rm -rf /usr/local/cuda*
+```
+```
+# To remove CUDA Toolkit installation directory
+sudo rm -rf /usr/local/cuda
+```
+```
+# Reboot System
+sudo reboot
+```
