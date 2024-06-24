@@ -47,4 +47,7 @@ sudo reboot
 # Choose relevant driver, e.g.
 sudo apt install nvidia-driver-470
 ```
+2. Complete ENTER MOK
+
+
 
